@@ -6,3 +6,4 @@ Creating models predicts dividend changes for the upcoming year. These models wi
 The objective of this project is to develop predictive models that provide forecasts of dividend changes for the next year based on inputted stock tickers. These models aim to deliver accurate and actionable insights, enabling our clients to make informed investment decisions and optimize their portfolio management. By predicting future dividend trends, the models will support financial planning and strategy development, ultimately enhancing the clients' ability to anticipate and respond to market changes.
 ### Data Source
 Retrieve data from xxx
+  呜呜呜
