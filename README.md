@@ -14,7 +14,7 @@ Creating models predicts dividend changes for the upcoming year. These models wi
 ![Project Architect Diagram](https://github.com/bw24ca/Dividend-Policy-Predictor-x-New-Horizons-Financial/blob/main/Project%20Architect%20Diagram.png)
 ## Data Source
 ### What is the dataset?
-Financial Data for S&P 500 Stocks (2014-2023)
+Financial Data for S&P 500 Stocks (2013-2022)
 ### Where we retrieved the data (Sources)？
 Collected through API calls from three sources:  
 #### FMP(Financial Modeling Prep)  
