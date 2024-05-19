@@ -31,7 +31,7 @@ To develop predictive models for forecasting dividend changes, we focused on pro
 
 1.Creating Three Distinct Datasets:
 - Dataset 1: Excluded stocks with 0 dividend throughout the entire 10-year period.
-- Dataset 2: Excluded stocks with 5 consecutive years without dividend payouts (i.e., stocks with 0 dividend from 2019 to 2023).
+- Dataset 2: Excluded stocks with 5 consecutive years without dividend payouts (i.e., stocks with 0 dividend from 2019 to 2022).
 - Dataset 3: The original dataset, including all stocks in the S&P 500.
   
 2.Handling Missing Values:  
