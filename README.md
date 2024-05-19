@@ -7,4 +7,4 @@ The objective of this project is to develop predictive models that provide forec
 ### Data Source
 Retrieve data from xxx
 
-![Project Architect Diagram](
+![Project Architect Diagram](https://github.com/bw24ca/Dividend-Policy-Predictor-x-New-Horizons-Financial/blob/main/Project%20Architect%20Diagram.png)
